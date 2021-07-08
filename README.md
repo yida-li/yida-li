@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📘 I’m currently reading : Hitchhiker's guide to the galaxy , Catcher in the Rye
+- 📗 Favorite book : Brave new world
+- 📭 Email : yidaii@outlook.com
+- 🍀 Specialty : Imagination
+- 🎓 School : Concordia
+- 💾 Languages : English, Python, Java, Javascript, French, C++, Chinese, Japanese
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yida-li)
+
+![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=yida&v=2&layout=compact)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
