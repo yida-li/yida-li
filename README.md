@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning everything possible to make: <span class="edit-link"><a href="https://github.com/ai-gorithm-js/Matryoshka-City " target="_blank"><i class="fa fa-github"></i> A Matryoshka World</a></span>
+- 🔭 I’m currently learning Machine Learning Algorithms 
+- 🌱 I’m currently learning everything possible to make: <span class="edit-link"><a href="https://github.com/ai-gorithm-js/CommandCenter " target="_blank"><i class="fa fa-github"></i> Command Center</a></span>
 - 👯 I’m looking to collaborate on social media bots
 - 🤔 I’m looking for help with social media bots
 - 💬 Ask me about biological stupidity
 - 📭 Email : yidaii@outlook.com
-- 🍀 Specialty : Imagination
 - 🎓 School : Concordia
-- 💾 Languages : English, Python, Java, Javascript, French, C++, Chinese, Japanese
+- 💾 Languages : English, Python, Java, Node , Javascript, French, C++, Chinese, Japanese, VHDL 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yida-li)
 
