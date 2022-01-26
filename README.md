@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🔭 I’m currently learning Python / Searching Algorithms / Machine learning Algorithms 
 - 🌱 I’m currently working on: <span class="edit-link"><a href="https://github.com/yida-li/Rubik-Cube" target="_blank"><i class="fa fa-github"></i> Pandora's box</a></span>
+-->
+- 🔭 I’m currently learning Java 
 - 👯 I’m looking to collaborate on social media bots
 - 🤔 I’m looking for help with social media bots
 - 💬 Ask me about biological stupidity
