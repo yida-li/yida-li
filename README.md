@@ -12,19 +12,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently working on: <span class="edit-link"><a href="https://github.com/yida-li/Rubik-Cube" target="_blank"><i class="fa fa-github"></i> Pandora's box</a></span>
 -->
-- 🔭 I’m currently learning Java 
-- 👯 I’m looking to collaborate on social media bots
-- 🤔 I’m looking for help with social media bots
-- 💬 Ask me about biological stupidity
+- 🔭 I’m currently learning Java/Networking  
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with electronics
+- 💬 Ask me about what i learned in computer engineering 
 - 📭 Email : yidaii@outlook.com
 - 🎓 School : Concordia
 - 💾 Languages : Python, Java, Node, Javascript, C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yida-li)
 
-![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=yida&v=2&layout=compact)
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yida/1ddef05f-4f9f-45f1-90ef-b0801ebe62dd.png" /></a>
 <!--START_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yida/51d6501e-3f2b-4b78-bf7b-feb0260eef11.png" /></a>
 ```text
 Week: 31 January, 2022 - 06 February, 2022
 
