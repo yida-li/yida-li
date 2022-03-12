@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently working on: <span class="edit-link"><a href="https://github.com/yida-li/Rubik-Cube" target="_blank"><i class="fa fa-github"></i> Pandora's box</a></span>
 -->
+- ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
+- 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
 - 🌱  I’m currently practicing coding at https://leetcode.com/problemset/all/
-- 🔭  I’m currently learning Java/Networking  
+- 🔭  I’m currently learning Java/Networking 
 - 👯  I’m looking to collaborate on social media bots
 - 🤔  I’m looking for help with electronics
 - 💬  Ask me about what i learned in computer engineering 
