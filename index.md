@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/yida-li/yida-li/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[2013] Graduated from Social Science at Vanier College 
+[2013] Enrolled in English Literature and History at Concordia University
+[2015] Enrolled in Electrical Engineering at Concordia University
+[2017] Enrolled in Computer Engineering at Concordia University
+[2022] Graduated in Computer Engineering
 ```
+### Volunteering
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+````markdown
+[2018-2020] | Station Impression | 1208 Saint Denis St
+[Summer 2017] | Intensive volunteering at Heads&Hands | 5833 Sherbrooke St W
+[2013-2015] | Sunday school teacher MCAC | 13 Finchley St, Hampstead
+[2013-2014] | Summer bible camp volunteer | 13 Finchley St, Hampstead
+[2012-2013] | Vanier College Student Association | 821 Sainte Croix Ave
+````
+### Languages
 
-### Jekyll Themes
+````markdown
+### proficiency level in ascending order
+English
+French
+Chinese
+Japanese
+````
+### Programming Language
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yida-li/yida-li/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+````markdown
+### proficiency level in ascending order
+Python
+Javascript
+Java
+C++
+PHP
+VHDL
+````
+### Personal Interest
 
-### Support or Contact
+````markdown
+Cooking
+Writing
+````
+### Professional Interest
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+````markdown
+Conversational AI 
+Computer Vision 
+Networking 
+Cyber-Security 
+Game-Design 
+Virtualization 
+AR/VR 
+Networking 
+Cloud Computing
+````
+### Recent Team Programming Projects
+
+[Delivery Robot](https://coen490.netlify.app) 
+
+[Dadashi Restaurant](https://dada-4274c.firebaseapp.com/) 
+
+
+### Past Team Programming Projects
+
+[Smoke Detection Application](https://github.com/yida-li/COEN390) 
+
+[2D Robot Control](https://github.com/yida-li/COEN448) 
+
+[3D Hyper-Cube Game](https://github.com/yida-li/SuperHypercube-Game) 
+
+[Covid Vaccination Application](https://github.com/yida-li/Covid-Vaccination-System) 
+
