@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on: <span class="edit-link"><a href="https://github.com/yida-li/Rubik-Cube" target="_blank"><i class="fa fa-github"></i> Pandora's box</a></span>
 -->
 - 🌱  https://yida-li.github.io
-- ⚡   I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
+- ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 - 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
-- 🔭  I’m currently learning react and practicing coding at https://leetcode.com/problemset/all/
-- 👯  I’m looking to collaborate on social media bots
+- 🔭  I’m currently stuck in limbo while making a youtube video
+- 👯  I’m still looking to collaborate on social media bots
 - 💬  Ask me about what I learned in computer engineering 
 - 📭  yidaii@outlook.com
 - 🎓  Concordia
