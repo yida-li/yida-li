@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🤔  https://yida-li.github.io
+- 🤔 https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 🌱  https://yida-li.github.io
 - ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 - 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
-- 🔭  I’m currently stuck in limbo while making a youtube video
+- 🔭  I’m currently making youtube videos https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 - 👯  I’m still looking to collaborate on social media bots
+- 🤔  I'm still looking for internship/experience/contract jobs
 - 💬  Ask me about what I learned in computer engineering 
 - 📭  yidaii@outlook.com
 - 🎓  Concordia
