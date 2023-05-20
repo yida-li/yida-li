@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently working on: <span class="edit-link"><a href="https://github.com/yida-li/Rubik-Cube" target="_blank"><i class="fa fa-github"></i> Pandora's box</a></span>
 -->
-- 🌱  https://yida-li.github.io
+- 🌱  My webpage hosted on github https://yida-li.github.io
 - ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 - 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
 - 🔭  I’m currently making youtube videos https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
-- 👯  I’m still looking to collaborate on social media bots
-- 🤔  I'm still looking for internship/experience/contract jobs
+- 👯  I’m stillllll looking to collaborate on social media bots
+- 😄  My hobbies beside programmings : Painting, fitness, reading, writing, cooking, volunteering, boardgames, langauge exchange
+- 🤔  I'm stillllll looking for internship/experience/contract jobs
 - 💬  Ask me about what I learned in computer engineering 
 - 📭  yidaii@outlook.com
 - 🎓  Concordia
