@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 - 🌱  My webpage hosted on github https://yida-li.github.io
 - ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
-- 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization  
+- 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization 
+- 🔭  I’m currently learning react and trying to become a software programmer  
 - 👯  My youtube Channel https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 - 😄  My hobbies beside programmings : Cooking, Reading, Writting, Music, Painting
 - 🤔  I'm stilllllllllllllllll looking for internship/experience/contract jobs
