@@ -6,19 +6,18 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🤔 https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🌱 I’m currently working on: <span class="edit-link"><a href="https://github.com/yida-li/Rubik-Cube" target="_blank"><i class="fa fa-github"></i> Pandora's box</a></span>
+
 -->
 - 🌱  My webpage hosted on github https://yida-li.github.io
+- 🤔  Looking for like-minded people to program together
 - ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 - 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization 
 - 🔭  I’m currently learning react and trying to become a software programmer  
 - 👯  My youtube Channel https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
 - 😄  My hobbies beside programmings : Cooking, Reading, Writting, Music, Painting
-- 🤔  I'm stilllllllllllllllll looking for internship/experience/contract jobs
 - 💬  Ask me about what I learned in computer engineering 
 - 📭  yidaii@outlook.com
 - 🎓  Concordia
@@ -27,16 +26,4 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yida/b093ff7d-e18f-4b6a-ba1a-d4fca6889097.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yida/1ddef05f-4f9f-45f1-90ef-b0801ebe62dd.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yida/70cea4fe-8d6a-4248-bb47-ff5cc6a8ddc5.png" /></a>
-<!--START_SECTION:waka-->
 
-```txt
-From: 14 July 2023 - To: 21 July 2023
-
-Other            6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.68 %
-GitIgnore file   0 secs          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.28 %
-Text             0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.20 %
-Groovy           0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.64 %
-JavaScript       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.20 %
-```
-
-<!--END_SECTION:waka-->
