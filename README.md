@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡  I'm interested in Cloud Computing , AR/VR , Computer Vision, Video Streaming, Graphics, Cybersecurity, Networking
 - 💫  I'm extremely interested in Conversational AI, Simulation, Virtualization 
 - 🔭  I’m currently working at myevent.com
-- 👯  My youtube Channel https://www.youtube.com/channel/UCnAZEd_Q-5JI9UX53bd5LQQ
-- 😄  My hobbies beside programmings : Cooking, Reading, Writting, Music, Painting
 - 💬  Ask me about what I learned in computer engineering 
 - 📭  yidaii@outlook.com
 - 🎓  Concordia
